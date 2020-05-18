@@ -1,2 +1,2 @@
 # HelloGitHub
-just funny
+just joke
